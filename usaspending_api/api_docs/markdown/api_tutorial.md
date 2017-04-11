@@ -23,7 +23,7 @@ Welcome to the introductory USASpending API tutorial. This tutorial is designed 
 
 If you're looking for federal spending data that's designed to be read by humans instead of computer programs, you should head to <a href="https://www.usaspending.gov/Pages/Default.aspx">usaspending.gov</a>, or visit <a href="https://openbeta.usaspending.gov">openbeta.usaspending.gov</a> for information on the updated version of the site that's currently in development.
 
-## Using the API <a name="using-the-api"></a> 
+## Using this Tutorial <a name="using-the-api"></a> 
 
 Over the next few sections, we will discuss the different methods for accessing the API, how to filter the data, how to use autocomplete endpoints, and how to find more information.
 
